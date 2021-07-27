@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Improvisation as Poetic Computation: James Weldon Johnson and Sonic Text Archive
 
 You can use the [editor on GitHub](https://github.com/petersonv215/Improvisation_PoeticComputation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
