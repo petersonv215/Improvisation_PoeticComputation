@@ -22,7 +22,7 @@ See also: https://www.musipedia.org/
 References
 
 
-James Weldon Johnson, The Books of the American Negro Spirituals, New York: Viking Press, 1925. 
+James Weldon Johnson, The Books of American Negro Spirituals, New York: Viking Press, 1925. 
 
 
 Peter Burkimsher, “Chord Progressions,” Github, 2017. (https://peterburk.github.io/chordProgressions/index.html)
