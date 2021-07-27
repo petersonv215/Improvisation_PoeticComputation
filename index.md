@@ -14,7 +14,7 @@ Henry Louis Gates Jr., The Signifying Monkey, Oxford, 1988. Sections 2.4-2.5.
 
 LeRoi Jones (Amiri Baraka), Blues People, Grove Press, 1963. 
 
---------------------------- Black Music, William Morrow & Co., 1968
+---------------------------- Black Music, William Morrow & Co., 1968
 
 See also: https://www.musipedia.org/ 
 
