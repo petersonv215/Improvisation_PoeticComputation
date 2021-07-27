@@ -43,7 +43,7 @@ James Weldon Johnson (JWJ) songbook was transcribed into Parsons code using Muse
 
 Locations and Playlists of songs played at BLM protests globally can be found here:
 
-https://www.google.com/maps/d/u/0/edit?mid=1ZDxNx3n4GZ7YzG5KdZRyUgvo1FZg10im&ll=9.444785484451593%2C0&z=2
+http://vpii.us/blm
 
 
 Acknowledgments
@@ -56,6 +56,6 @@ Victor Peterson II
 
 petersonv [at] gmail.com 
 
-http://vpii.us/blm
+
 
 
