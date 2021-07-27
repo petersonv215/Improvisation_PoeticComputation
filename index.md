@@ -34,7 +34,7 @@ Notes:
 James Weldon Johnson's (JWJ) songbook was transcribed into Parsons code using `MuseScore Parsons Code Exporter 1.0` from .mxml scores of the songs collected in the JWJ volume. This was done to maintain consistency throughout the translation process. GPT data was produced by a machine trained on the Burkimsher and JWJ datasets.
 
 
-“Songbooks," i.e. singing texts, were generated using deepAI’s GPT3. To model improvisation, after training our input was an encoding of the “kernel” phrase James Weldon Johnson identified in the introduction to his book as the generative core to music emanating from the Americas after the introduction of slaves and found in the work songs, spirituals, and eventually the blues. From this core, and modeled by the GPT, we simulated the evolution of blues from spirituals, to jazz, and other genres: Rhythm and Blues, Rock and Roll, etc. This kernel phrase is the following: 
+“Songbooks," i.e. singing texts, were generated using DeepAI’s `GPT-3`. To model improvisation, after training our input was an encoding of the “kernel” phrase James Weldon Johnson identified in the introduction to his book as the generative core to music emanating from the Americas after the introduction of slaves and found in the work songs, spirituals, and eventually the blues. From this core, and modeled by the GPT, we simulated the evolution of blues from spirituals, to jazz, and other genres: Rhythm and Blues, Rock and Roll, etc. This kernel phrase is the following: 
 
 
 
