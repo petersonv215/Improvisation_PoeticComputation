@@ -5,11 +5,15 @@ Parsons code is apt for studying and comparing the internal structure of songs. 
 
 For resources on the tradition of treating music/song as archival texts: 
 
+
 Denys Parsons, The Directory of Tunes and Musical Themes, S. Brown, 1975.
+
 
 Henry Louis Gates Jr., The Signifying Monkey, Oxford, 1988. Sections 2.4-2.5.
 
+
 LeRoi Jones (Amiri Baraka), Blues People, Grove Press, 1963. 
+
 --------------------------- Black Music, William Morrow & Co., 1968
 
 See also, https://www.musipedia.org/ 
@@ -19,6 +23,7 @@ References
 
 
 James Weldon Johnson, The Books of the American Negro Spirituals, New York: Viking Press, 1925. 
+
 
 Peter Burkimsher, “Chord Progressions,” Github, 2017. (https://peterburk.github.io/chordProgressions/index.html)
 
@@ -45,6 +50,7 @@ Acknowledgments
 
 
 I would like to acknowledge both the Johannesburg Institute for Advanced Study and the Institute for Advanced Study at the University of Amsterdam and the Humanities at the University of Edinburgh for their support during the completion of this project. 
+
 
 Victor Peterson II 
 
