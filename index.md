@@ -53,7 +53,7 @@ I would like to acknowledge both the Johannesburg Institute for Advanced Study a
 
 
 Victor Peterson II 
-petersonv [at] gmail.com 
+contact: petersonv [at] gmail.com 
 
 
 
