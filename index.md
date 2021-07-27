@@ -16,7 +16,7 @@ LeRoi Jones (Amiri Baraka), Blues People, Grove Press, 1963.
 
 --------------------------- Black Music, William Morrow & Co., 1968
 
-See also, https://www.musipedia.org/ 
+See also: https://www.musipedia.org/ 
 
 
 References
