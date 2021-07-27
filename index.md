@@ -16,10 +16,8 @@ LeRoi Jones (Amiri Baraka), Blues People, Grove Press, 1963.
 
 ---------------------------- Black Music, William Morrow & Co., 1968
 
-See also: https://www.musipedia.org/ 
 
-
-References
+References:
 
 
 James Weldon Johnson, The Books of American Negro Spirituals, New York: Viking Press, 1925. 
@@ -28,10 +26,12 @@ James Weldon Johnson, The Books of American Negro Spirituals, New York: Viking P
 Peter Burkimsher, “Chord Progressions,” Github, 2017. (https://peterburk.github.io/chordProgressions/index.html)
 
 
+See also: https://www.musipedia.org/ 
+
 Notes: 
 
 
-James Weldon Johnson (JWJ) songbook was transcribed into Parsons code using MuseScore Parsons Code Exporter 1.0 from .mxml scores in order to maintain consistency. GPT data was produced by a machine trained on the Burkimsher and JWJ datasets. 
+James Weldon Johnson's (JWJ) songbook was transcribed into Parsons code using MuseScore Parsons Code Exporter 1.0 from .mxml scores of the songs collected in that volume in order to maintain consistency. GPT data was produced by a machine trained on the Burkimsher and JWJ datasets.
 
 
 “Songbooks” were generated using deepAI’s GPT3. To model improvisation, after training our input was an encoding of the “kernel” phrase James Weldon Johnson identified in the introduction to his book as the generative core to the music emanating from the Americas after the introduction of slaves and found in the blues. From this core, and modeled by the GPT, we simulated the evolution of blues from spirituals, to jazz, and other genres: Rhythm and Blues, Rock and Roll, etc. This kernel phrase is the following: 
