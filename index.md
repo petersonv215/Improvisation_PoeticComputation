@@ -31,10 +31,9 @@ See also: https://www.musipedia.org/
 Notes: 
 
 
-James Weldon Johnson's (JWJ) songbook was transcribed into Parsons code using `MuseScore Parsons Code Exporter 1.0` from .mxml scores of the songs collected in the JWJ volume. This was done to maintain consistency throughout the translation process. GPT data was produced by a machine trained on the Burkimsher and JWJ datasets.
+James Weldon Johnson's (JWJ) songbook was transcribed into Parsons code using `MuseScore Parsons Code Exporter 1.0` from .mxml scores of the songs collected in the JWJ volume. This was done to maintain consistency throughout the translation process. Singing books, in which music was treated as a textual archive, was produced by a machine trained on the Burkimsher and JWJ datasets. 
 
-
-“Songbooks," i.e. singing texts, were generated using DeepAI’s `GPT-3`. To model improvisation, after training our input was an encoding of the “kernel” phrase James Weldon Johnson identified in the introduction to his book as the generative core to music emanating from the Americas after the introduction of slaves and found in the work songs, spirituals, and eventually the blues. From this core, and modeled by the GPT, we simulated the evolution of blues from spirituals, to jazz, and other genres: Rhythm and Blues, Rock and Roll, etc. This kernel phrase is the following: 
+“Songbooks," i.e. singing texts, were generated using DeepAI’s `GPT-3 text generator`. To model improvisation, after training our text generator we used as input an encoding of the “kernel” phrase James Weldon Johnson identified in the introduction to his book. This kernel was determined as the generative core of the music emanating from the Americas after the introduction of slaves to both continents and the Caribbean and found in the work songs, spirituals, and eventually the blues. From this core, and modeled by the GPT, we simulated the evolution of blues from spirituals, to jazz, and other genres: Rhythm and Blues, Rock and Roll, etc. This kernel phrase is the following: 
 
 
 
@@ -46,7 +45,7 @@ Locations and Playlists of songs played at BLM protests globally can be found he
 http://vpii.us/blm
 
 
-Acknowledgments
+Acknowledgments:
 
 
 I would like to acknowledge both the Johannesburg Institute for Advanced Study and the Institute for Advanced Study at the University of Amsterdam and the Humanities at the University of Edinburgh for their support during the completion of this project. 
