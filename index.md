@@ -1,6 +1,6 @@
 ## Improvisation as Poetic Computation
 
-Parsons code is apt for studying and comparing the internal structure of songs. Choose a key, encode with `*`, `U`=Up, `D`=Down, `R`=Repeat, a tone in that key. From this, a process can be developed whereby the act of organizing sound provides a model for how people organize around the structure encoded by, the mood, or that song across contexts.
+Parsons code is apt for studying and comparing the internal structure of songs. Choose a key, and encode a tone with `*`, `U`=Up, `D`=Down, `R`=Repeat, in that key. From this, a process can be developed whereby the act of organizing sound provides a model for how people organize around the structure encoded by, i.e. the mood of, that song across contexts.
 
 
 For resources on the tradition of treating music/song as archival texts: 
